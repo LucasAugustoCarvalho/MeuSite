@@ -198,8 +198,8 @@ body {
     .meio {
         flex-direction: column-reverse;
         width: 100%;
-        height: auto;
-        padding: 0 5%;
+        height: 100%;
+        
     }
 
     .meio-texto {
