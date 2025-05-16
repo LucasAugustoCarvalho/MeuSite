@@ -221,6 +221,7 @@ body {
     }
 
     .cabeca {
+        position: fixed;
         width: 100%;
         height: 6%;
         background-color: var(--bg_marinho);
@@ -233,7 +234,7 @@ body {
         color: var(--dourado_lol);
         font-size: 1.5rem;
     }.botao-link{
-        width: 42%;
+        width: 45%;
         font-size: 1.8rem;
     }.frase-def{
         font-size: 1.5rem;
