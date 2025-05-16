@@ -11,8 +11,8 @@
 }
 
 html, body {
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
     margin: 0;
     padding: 0;
     overflow-x: hidden;
@@ -189,7 +189,7 @@ body {
         left: 0;
         right: 0;
         width: 100%;
-        height: 94%;
+        height: 100%;
         background-color: var(--bg_marinho);
         z-index: 1;
         border: 3px solid var(--verde_hack);
@@ -197,8 +197,8 @@ body {
 
     .meio {
         flex-direction: column-reverse;
-        width: 100vw;
-        padding: 0 5vw;
+        width: 100%;
+        padding: 0 5%;
     }
 
     .meio-texto {
@@ -238,13 +238,13 @@ body {
         font-size: 2.7rem;
     }
     .rodape {
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width: 100%;
     height: 3%;
     display: flex;
     justify-content: center;
     align-items: center;
-}
+    }
     
 }
