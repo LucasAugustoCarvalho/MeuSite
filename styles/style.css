@@ -188,7 +188,8 @@ body {
         bottom: 3%;
         left: 0;
         right: 0;
-        width: 100vw;
+        width: 100%;
+        height: 94%;
         background-color: var(--bg_marinho);
         z-index: 1;
         border: 3px solid var(--verde_hack);
@@ -236,4 +237,13 @@ body {
     .frase-inicial{
         font-size: 2.7rem;
     }
+    .rodape {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
