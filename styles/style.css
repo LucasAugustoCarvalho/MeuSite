@@ -194,12 +194,14 @@ body {
     }
 
     .meio {
-        position: static;
-        transform: none;
+        position: relative;
+        z-index: 1;
         flex-direction: column-reverse;
+        align-items: center; /* Centraliza os filhos */
         width: 100%;
         height: auto;
         padding: 5vh 0;
+        text-align: center; /* Centraliza texto */
     }
 
 
@@ -231,7 +233,7 @@ body {
         color: var(--dourado_lol);
         font-size: 1.5rem;
     }.botao-link{
-        width: 38%;
+        width: 42%;
         font-size: 1.8rem;
     }.frase-def{
         font-size: 1.5rem;
