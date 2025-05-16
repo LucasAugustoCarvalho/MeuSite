@@ -210,7 +210,7 @@ body {
     }
 
     .minha-foto {
-        width: 60vw;
+        max-width: 60vw;
         max-height: 30vh;
         object-fit: cover;
         border-radius: 15px;
