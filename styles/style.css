@@ -206,7 +206,7 @@ body {
     align-items: center;
     width: 100%;
     height: auto;
-    padding: 10vh 0 5vh 0; /* Aqui está a solução: aumenta o padding-top */
+    padding: 10vh 10vw 5vh 10vw; /* Aqui está a solução: aumenta o padding-top */
     text-align: center;
     margin-top: 6vh; /* ou ajuste esse valor para garantir espaço abaixo do header */
     }
