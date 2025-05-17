@@ -240,12 +240,12 @@ body {
         font-size: 1.5rem;
     }.botao-link{
         width: 50%;
-        font-size: 1.8rem;
+        font-size: 1.2rem;
     }.frase-def{
-        font-size: 1.5rem;
+        font-size: 1rem;
     }
     .frase-inicial{
-        font-size: 2.7rem;
+        font-size: 2rem;
     }
     .rodape {
     position: fixed;
