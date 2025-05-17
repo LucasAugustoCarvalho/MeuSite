@@ -201,7 +201,7 @@ body {
     .meio {
     position: relative;
     z-index: 1;
-    margin-top: 15%;
+    margin-top: 10%;
     flex-direction: column-reverse;
     align-items: center;
     width: 100%;
@@ -236,8 +236,8 @@ body {
         z-index: 2;
     }
     .sobre-mim-texto{
-        padding-left: 20px;
-        padding-right: 20px;
+        padding-left: 10%;
+        padding-right: 10%;
         text-align: justify;
     }
     .cabeca_menu {
