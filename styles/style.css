@@ -238,7 +238,7 @@ body {
     .sobre-mim-texto{
         padding-left: 10%;
         padding-right: 10%;
-        text-align: justify;
+        
     }
     .cabeca_menu {
         display: flex;
