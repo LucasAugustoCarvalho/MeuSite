@@ -236,7 +236,9 @@ body {
         z-index: 2;
     }
     .sobre-mim-texto{
-        padding: 0 5vw;
+        padding-left: 20px;
+        padding-right: 20px;
+        text-align: justify;
     }
     .cabeca_menu {
         display: flex;
